@@ -5,9 +5,9 @@
 
 <div>
   <a href="https://github.com/monclai">
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=monclai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=monclai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
     
-  <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monclai&langs_count=16&theme=algolia"/>
+  <img height="200em" width="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monclai&langs_count=16&theme=algolia"/>
 </div>
   
 <div style="display: inline_block"><br>
