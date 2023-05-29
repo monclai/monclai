@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/monclai">
     
-| <img height="300em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monclai&langs_count=16&theme=algolia"/> |      <img height="335em" width="600em" src="https://github-readme-stats.vercel.app/api?username=monclai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>   |
+| <img height="300em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monclai&langs_count=16&theme=algolia"/> |      <img height="335em" width="500em" src="https://github-readme-stats.vercel.app/api?username=monclai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>   |
 <!-- | ------------------------------------------------------------ | ---- | -->
 
 
